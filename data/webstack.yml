@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: YouTube
-      logo: "https://www.youtube.com/favicon.ico"
+      logo: images/logos/YouTube.png
       url: https://www.youtube.com/@kejigongxiang/
       description: 一个专注于软件安装，科学上网教学的频道！
     - title: 资源博客
