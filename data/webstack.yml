@@ -26,6 +26,7 @@
       url: https://universalbus.cn?s=gB8CJKmJdd
       description: 流媒体影音账号合租平
     - title: "万事达虚拟银行卡"
+      logo: https://www.google.com/s2/favicons?sz=64&domain=bybit.com
       url: "https://www.bybit.com/invite?ref=QAM3MOJ"
       description: "国内usdt消费,支付宝、微信充值，海外消费。"
     - title: visa虚拟卡
@@ -42,24 +43,27 @@
       url: https://t.me/kjgxZY/
       description: 科技共享资源频道
     - title: Telegram群组
+      logo: https://www.google.com/s2/favicons?sz=64&domain=telegram.org
       url: https://t.me/+qf_DtRZ90ys2ZDBl/
       description: 沟通交流，资源分享
     - title: 接码平台
-      logo:  
+      logo: images/logos/hero-sms.png
       url: https://hero-sms.com/?ref=489021/
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
     - title: Base64编码解码
+      logo: https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
       url: https://99688988.xyz/base64-string-converter/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
     - title: 文叔叔
-      logo: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=wenshushu.cn
       url: https://www.wenshushu.cn/
       description: 传临时文件,大文件、永不限速
     - title: 网络剪贴板
-      logo: 
+      logo: images/logos/168668520.xyz.png
       url: https://clipboard.168668520.xyz/
       description: 提供数据暂存和传送服务
     - title: UUID生成
+      logo: images/logos/99688988.xyz.png
       url: https://99688988.xyz/uuid-generator/
       description: UUID在线生成
     - title: 轻抖
