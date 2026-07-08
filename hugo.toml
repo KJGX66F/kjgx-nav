@@ -32,7 +32,7 @@ copyright = "kjgx"
 #桌面端右上角code按钮
 [params.github]
   enable = true #true显示 false隐藏
-  url = "https://github.com/oulh/nav"
+  url = "https://github.com/KJGX66F/kjgx-nav"
   
 [permalinks]  
   404 = "/404.html"
